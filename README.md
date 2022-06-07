@@ -1,7 +1,8 @@
 - 👋 Hi, I’m rob!
 - 👀 I’m interested in learing different programming languages
 - 🌱 I’m currently learning python
-- 📫 You can reach me at @pobertr on twitter. Email coming soon...
+- 📫 You can reach me at @pobertr on twitter.
+- 📫 You can also reach me at pobertsmail@pobertmc.xyz
 
 <!---
 pobertraterson/pobertraterson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
