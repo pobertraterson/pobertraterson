@@ -1,6 +1,6 @@
 - 👋 Hi, I’m rob!
 - 👀 I’m interested in learing different programming languages
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and javascript (barely)
 - 📫 You can reach me at @pobertr on twitter. (https://twitter.com/pobertr)
 - 📫 You can also reach me at pobertsmail@pobertmc.xyz
 
