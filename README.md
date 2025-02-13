@@ -1,6 +1,7 @@
-- Hi, I’m rob
-- I’m currently learning python and javascript
-<!---
-pobertraterson/pobertraterson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# About me
+- I'm from Liverpool, UK
+- I'm studying software engineering at University
+- Favourite album is Power, Corruption & Lies by New Order.
+
+# Are you good at programming?
+No.
