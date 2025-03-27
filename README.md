@@ -1,10 +1,10 @@
 # About me
 - From Liverpool
 - Software Engineering student at Manchester Metropolitan University
-- Favourite album is Power, Corruption & Lies by New Order.
+- Favourite album is Power, Corruption & Lies by New Order
 
 # Are you good at programming?
-No.
+No!
 
 # Links
 - [Bluesky](https://bsky.app/profiles/pobertmc.xyz)
