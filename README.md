@@ -8,5 +8,5 @@ No.
 
 # Links
 - [Bluesky](https://bsky.app/profiles/pobertmc.xyz)
-- [Twitter (inactive)](https://twitter.com/pobertraterson)
+- [Twitter (inactive)](https://twitter.com/pobertr)
 - [Website](https://www.pobertmc.xyz)
