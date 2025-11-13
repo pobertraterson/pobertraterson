@@ -4,7 +4,7 @@
 - Favourite album is Power, Corruption & Lies by New Order
 
 # Are you good at programming?
-No!
+I hope so
 
 # Links
 - [Bluesky](https://bsky.app/profiles/pobertmc.xyz)
