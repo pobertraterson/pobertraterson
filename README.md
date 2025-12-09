@@ -1,7 +1,7 @@
 # about me
 - from liverpool
-- software engineering student at manchester metropolitan mniversity
-- favourite album is Power, Corruption & Lies by New Order
+- software engineering student at manchester metropolitan university
+- favourite album is power, corruption & lies by new order
 
 # are you good at programming?
 i hope so
