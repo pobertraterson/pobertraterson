@@ -1,23 +1,29 @@
-# About me
-- From Liverpool
-- Software Engineering student at Manchester Metropolitan University
-- Favourite album is Power, Corruption & Lies by New Order
+# about me
+- from liverpool
+- software engineering student at manchester metropolitan mniversity
+- favourite album is Power, Corruption & Lies by New Order
 
-# Are you good at programming?
-I hope so
+# are you good at programming?
+i hope so
 
-# Links
-- [Bluesky](https://bsky.app/profiles/pobertmc.xyz)
-- [Twitter (inactive)](https://twitter.com/pobertr)
-- [Website](https://www.pobertmc.xyz)
+# links
+- [bluesky](https://bsky.app/profiles/pobertmc.xyz)
+- [twitter (inactive)](https://twitter.com/pobertr)
+- [website](https://www.pobertmc.xyz)
 
-# Stuff I use for anyone who cares
-Main PC (lime):
-- Ryzen 7 5800x
-- 16gb DDR4 RAM
-- Radeon Rx 5700XT
+# working on
+- assignments
+- videos
+- video editing for friend's podcast
+- personal & and group websites
 
-Mac Mini M4 (tangerine)
+# stuff I use for anyone who cares
+main PC (lime):
+- ryzen 7 5800x
+- 16gb ddr4 ram
+- radeon rx 5700xt
 
-Google Pixel 9 (orange)
--GrapheneOS
+mac mini m4 (tangerine)
+
+google pixel 9 (orange)
+-grapheneos
