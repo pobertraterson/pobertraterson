@@ -14,5 +14,5 @@ i hope so
 # working on
 - assignments
 - videos
-- video editing for friend's podcast
-- personal & and group websites
+- [video editing for friend's podcast](https://www.youtube.com/@threeofthebestpod)
+- api for website/stuff
